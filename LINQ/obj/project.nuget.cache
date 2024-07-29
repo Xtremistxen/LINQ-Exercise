@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pwtWqzGRWs+T1zz5jRf+MwE+3lTeypOjuqk+g01pTjBsH1emgBHnmk5sn0V0BM3Xr4MEJMCy6GBRYuDhAoNIrQ==",
+  "dgSpecHash": "maTQOoJKzCsSJj9F6kiGxMUUsOoXHBCX4H4fvG6S2kdF8Yc7CdSCqDrylHMZInX+bYejenakOg8R5QjyhOBowg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\LINQ\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\BooBy\\Desktop\\Repos\\LINQexercise2\\LINQ-Exercise\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BooBy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\BooBy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\BooBy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\BooBy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
